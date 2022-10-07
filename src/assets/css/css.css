@@ -39,7 +39,7 @@ header {
     animation: bounce .5s 5ms;
     z-index: 1000;
     background-color: rgba(255, 255, 255, 0.777);
-    box-shadow:0 10px rgba(12, 12, 12, 0.7);
+    box-shadow: 0 10px rgba(12, 12, 12, 0.7);
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
@@ -202,7 +202,7 @@ aside .a3 {
     position: absolute;
     inset: -2px;
     transition: .5s;
-    background: linear-gradient(315deg, var(--tertiary-color), var(--primary-color),var(--primary-color), var(--secondary-color) );
+    background: linear-gradient(315deg, var(--tertiary-color), var(--primary-color), var(--primary-color), var(--secondary-color));
     animation: roda 4s linear infinite;
 }
 
@@ -233,7 +233,7 @@ aside .a3 {
 }
 
 .sobre .card {
-    background-image: url(/src/assets/img/about-me.svg);
+    background-image: url(../../assets/img/about-me.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -268,9 +268,10 @@ aside .a3 {
     margin-right: 5px;
 }
 
-.sobre .conteudo p{
+.sobre .conteudo p {
     text-shadow: 0 1px 2px var(--tertiary-color);
 }
+
 .conteudo-colum {
     display: grid;
     grid-template-rows: minmax(70px);
@@ -448,7 +449,7 @@ aside .a3 {
 }
 
 .img-talk-me {
-    background-image: url(/src/assets/img/talk-me.svg);
+    background-image: url(../../assets/img/talk-me.svg );
     background-size: contain;
     background-repeat: no-repeat;
     margin: 10px 0 0 5%;
@@ -627,7 +628,7 @@ footer {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .contatos .conteudo .img-talk-me{
+    .contatos .conteudo .img-talk-me {
         display: none;
     }
 
@@ -635,23 +636,23 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    footer{
+    footer {
         display: block;
         padding: 10px;
     }
 
-    .footer{
+    .footer {
         flex-direction: column;
         padding: 10px;
     }
-    
+
     footer .footer .footer-text,
-    footer .footer .footer-content{
+    footer .footer .footer-content {
         width: 100%;
         margin-bottom: 20px;
     }
 
-    footer .footer .footer-content a{
+    footer .footer .footer-content a {
         margin: 5px;
     }
 
@@ -666,10 +667,10 @@ footer {
     }
 
     .sobre .conteudo {
-        grid-template-rows: repeat(2,280px);
+        grid-template-rows: repeat(2, 280px);
         margin-bottom: 10px;
     }
-   
+
 }
 
 
@@ -744,11 +745,11 @@ footer {
     }
 }
 
-.active{
+.active {
     display: block !important;
 }
 
-.aviso{
+.aviso {
     text-align: center;
     margin: 5em auto;
     font-size: 1.65em;
