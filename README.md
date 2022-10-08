@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<a target="_blank" href="https://joabsonsants.github.io/portifolio-statico/">
+<a target="_blank" rel="noreferrer noopener" href="https://joabsonsants.github.io/portifolio-statico/">
     <img style="margin:10px; width:300px" src="https://raw.githubusercontent.com/joabsonSants/portifolio-statico/main/src/assets/img/joabson.png" />
 </a>
 
@@ -10,7 +10,7 @@
 
 # Portifolio
 
-<a target="_blank" href="https://joabsonsants.github.io/portifolio-statico/">Ir Visitar</a>
+<a target="_blank" rel="noreferrer noopener" href="https://joabsonsants.github.io/portifolio-statico/">Ir Visitar</a>
 
 <br>
 
