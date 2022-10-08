@@ -1,10 +1,16 @@
 
 <div align="center">
-<img style="margin:10px; width:300px" src="https://raw.githubusercontent.com/joabsonSants/portifolio-statico/main/src/assets/img/joabson.png" />
+
+<a target="_blank" href="https://joabsonsants.github.io/portifolio-statico/">
+    <img style="margin:10px; width:300px" src="https://raw.githubusercontent.com/joabsonSants/portifolio-statico/main/src/assets/img/joabson.png" />
+</a>
+
 </div>
 <br><br><br>
 
 # Portifolio
+
+<a target="_blank" href="https://joabsonsants.github.io/portifolio-statico/">Ir Visitar</a>
 
 <br>
 
