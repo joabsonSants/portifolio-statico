@@ -232,6 +232,7 @@ aside .a3 {
     margin-top: 10%;
 }
 
+
 .sobre .card {
     background-image: url(../../assets/img/about-me.svg);
     background-position: center;
@@ -241,6 +242,7 @@ aside .a3 {
     height: 400px;
     margin: 10px auto;
     border-radius: 7px;
+    
 }
 
 .sobre .conteudo {
